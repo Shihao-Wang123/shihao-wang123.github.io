@@ -10,7 +10,7 @@ My research interests focus on the Hodge theory.
 
 ### Papers
 
-1.[On Bott-Samelson Rings For Coxeter Groups](http://arxiv.org/abs/2408.10155).(with Tao Gui, Lin Sun and Haoyu Zhu)
+1.[On Bott-Samelson Rings for Coxeter Groups](http://arxiv.org/abs/2408.10155).(with Tao Gui, Lin Sun and Haoyu Zhu)
 
 2.[PageRank of Gluing Networks and Corresponding Markov Chains](https://www.mdpi.com/2227-7390/13/13/2080) and [PDF version](https://www.mdpi.com/2227-7390/13/13/2080/pdf).(with Xuqian Ben Han and Chenglong Yu)
 
@@ -25,6 +25,9 @@ My research interests focus on the Hodge theory.
 7.[A Proof of Mongardi's Conjecture on Finite Symplectic Group Actions on Hyperkähler Manifold of K3^\[n\] Type](https://arxiv.org/abs/2610.11109).(with Jie Fu and Zhiwei Zheng)
 
 8.[Finite Symplectic Automorphisms of Hyperkähler Manifolds of K3^\[n\]-Type Act Trivially on Discriminant Groups](notes/2026Spring/Mongardi_Gap.pdf).(with Jie Fu and Zhiwei Zheng)
+
+9.[A Sharp Bound for the Second Betti Number of Hyperkähler Sixfolds](notes/2026Spring/HK_sixfold.pdf).(with Jie Fu, Bin Wang and Zhiwei Zheng)
+
 ### Notes
 
 1.[Basic K3 Surfaces](notes/2025Fall/hyperKahler_seminar_basic_K3_surface.pdf). My note for the hyperKähler seminar. It is a brief introduction to K3 surfaces and some examples of hyperKähler manifolds.
