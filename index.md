@@ -26,7 +26,7 @@ My research interests focus on the Hodge theory.
 
 8.[Finite Symplectic Automorphisms of Hyperkähler Manifolds of K3^\[n\]-Type Act Trivially on Discriminant Groups](notes/2026Spring/Mongardi_Gap.pdf).(submitted to arXiv, with Jie Fu and Zhiwei Zheng)
 
-9.[A Sharp Bound for the Second Betti Number of Hyperkähler Sixfolds](notes/2026Spring/HK_sixfold.pdf).(submitted to arXiv, with Jie Fu, Bin Wang and Zhiwei Zheng)
+9.[A Sharp Bound for the Second Betti Number of Hyperkähler Sixfolds](https://arxiv.org/abs/2610.15803).(with Jie Fu, Bin Wang and Zhiwei Zheng)
 
 ### Notes
 
