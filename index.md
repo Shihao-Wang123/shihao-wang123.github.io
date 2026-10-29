@@ -24,9 +24,15 @@ My research interests focus on the Hodge theory.
 
 7.[A Proof of Mongardi's Conjecture on Finite Symplectic Group Actions on Hyperkähler Manifolds of K3^\[n\] Type](https://arxiv.org/abs/2610.11109).(with Jie Fu and Zhiwei Zheng)
 
-8.[Finite Symplectic Automorphisms of Hyperkähler Manifolds of K3^\[n\]-Type Act Trivially on Discriminant Groups](notes/2026Spring/Mongardi_Gap.pdf).(submitted to arXiv, with Jie Fu and Zhiwei Zheng)
+8.[Finite Symplectic Automorphisms of Hyperkähler Manifolds of K3^\[n\]-Type Act Trivially on Discriminant Groups](https://arxiv.org/abs/2610.35916).(with Jie Fu and Zhiwei Zheng)
 
 9.[A Sharp Bound for the Second Betti Number of Hyperkähler Sixfolds](https://arxiv.org/abs/2610.15803).(with Jie Fu, Bin Wang and Zhiwei Zheng)
+
+10.[A Counterexample to Huppert's Conjecture](https://hexagonmath.org/2610.00529v1).(with Zhiwei Zheng)
+
+11.[Explicit Finite $p$-Group Counterexamples to the Amit--Ashurst Conjecture](https://hexagonmath.org/2610.00563v1).(with Zhiwei Zheng)
+
+12.[Compatibility of Perverse Truncation of Ngô Fibrations](notes/2026Spring/Compatibility_of_Perverse_Truncation_of_Ng^o_Fibrations).(submitted to arXiv, with Bin Wang and Chenglong Yu)
 
 ### Notes
 
