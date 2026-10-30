@@ -32,7 +32,7 @@ My research interests focus on the Hodge theory.
 
 11.[Explicit Finite $p$-Group Counterexamples to the Amit--Ashurst Conjecture](https://hexagonmath.org/2610.00563v1).(with Zhiwei Zheng)
 
-12.[Compatibility of Perverse Truncation of Ngô Fibrations](notes/2026Spring/Compatibility_of_Perverse_Truncation_of_Ng^o_Fibrations.pdf).(submitted to arXiv, with Bin Wang and Chenglong Yu)
+12.[Compatibility of Perverse Truncation of Ngô Fibrations](https://arxiv.org/abs/2610.39945).(with Bin Wang and Chenglong Yu)
 
 ### Notes
 
